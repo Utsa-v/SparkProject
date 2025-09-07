@@ -1,0 +1,6 @@
+order_id,product,total_amount,order_date
+1,Keyboard,60,2023-01-01
+2,Mouse,20,2023-01-01
+3,Laptop,900,2023-01-02
+4,Laptop,900,2023-01-03
+5,Monitor,400,2023-01-04
